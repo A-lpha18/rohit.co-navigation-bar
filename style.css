@@ -1,0 +1,35 @@
+#top{
+    text-align: center;
+    background-color: lightcyan;
+    margin: 10px 10px;
+    border-radius: 8px;
+    
+}
+body{
+    background-color: lightsalmon;
+}
+.naviber{
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 8px;
+    
+}
+
+.naviber li{
+    list-style: none;
+    float: left;
+    
+}
+.naviber li a{
+    padding: 10px 10px;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 23px;
+    text-align: center;
+}
+button{
+    
+    background-color: lightblue;
+    border: 0px;
+
+}
